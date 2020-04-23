@@ -1,2 +1,2 @@
-# Python-GuessTheNumber
-A simple and fun game that asks the user to guess the number generated 
+# Python beginner Projects
+Here are a few easy and short python projects that a beginner can take up! 
